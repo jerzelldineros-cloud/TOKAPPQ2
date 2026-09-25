@@ -1,4 +1,4 @@
-package QUARTER2;
+package quarter2;
 
 public class DINEROS {
 }
